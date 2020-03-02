@@ -1,11 +1,7 @@
 --- 
-title: "There and Back Again: Spatial and Temporal Variation in the Recruitment Dynamics of an Amphidromous Fish"
-subtitle: "Conor Neilson"
-author:
-  - 'A thesis submitted to Victoria University of Wellington in partial fulfilment of the requirements for the degree of Master of Science in Ecology and Biodiversity'
-  - 'Victoria University of Wellington'
-date: "2016"
+author: Conor Neilson
 site: bookdown::bookdown_site
+cover-image: "images/cover-image.png"
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -13,3 +9,24 @@ link-citations: yes
 description: "This is the description"
 ---
 
+
+# There and Back Again: Spatial and Temporal Variation in the Recruitment Dynamics of an Amphidromous Fish {-}
+
+
+### by Conor Neilson {-}
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+#### A thesis submitted to Victoria University of Wellington in partial fulfilment of the requirements for the degree of Master of Science in Ecology and Biodiversity. {-}
+
+&nbsp;
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/cover-image.png")
+```
+
+&nbsp;
+
+#### Victoria University of Wellington {-}
+#### 2016 {-}

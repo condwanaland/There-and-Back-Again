@@ -1,10 +1,10 @@
-# Preface {#intro}
+# Preface {-}
 
 > *One planet, one experiment*
 >
 >  *- E.O. Wilson*
 
-## Abstract
+## Abstract {-}
 
 A primary goal of ecology is to identify the factors underlying recruitment variability, and how they may shape population dynamics. Recruitment is driven by the input of new individuals into a population. However, these individuals often show high diversity in phenotypic traits and life histories, and the consequences of this variation are poorly understood. Phenotypic variation is widespread among the early life stages of fish, and this variation may be influenced by events occurring across multiple life stages. While many studies have investigated phenotypic variation and its effect on population dynamics, comparatively few studies use an integrated approach that evaluates patterns and processes across multiple life history stages. Here I focus on a native amphidromous fish, *Galaxias maculatus*, and I explore patterns and consequences of phenotypic variation during larval stages, migratory stages, and post-settlement stages of this fish.
 
@@ -19,7 +19,7 @@ My results suggest that fish that survived to adulthood had comparatively slower
 Collectively my thesis emphasises the importance of phenotype and life history variability in studies of recruitment. It also highlights the importance of spatial scale, and how biological patterns may differ between geographically close systems. Some of the general inferences from my study may extend to other migratory Galaxiid species, and perhaps more generally, to many species with extensive larval dispersal. Finally, my work highlights potentially important interactions between phenotypes, life histories, and mortality, which can ultimately shape recruitment, and the dynamics of populations. 
 
 
-## Acknowledgements
+## Acknowledgements {-}
 
 I always suspected that the acknowledgements section would end up being the longest section of this thesis. In truth, there has been a phenomenal amount of people who have contributed to this in some way, and it wouldn’t feel right if I didn’t thank you all. 
 
