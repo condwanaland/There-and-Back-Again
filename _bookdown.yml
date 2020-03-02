@@ -1,0 +1,5 @@
+book_filename: "there-and-back-again"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "

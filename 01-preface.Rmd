@@ -1,0 +1,44 @@
+# Preface {#intro}
+
+> *One planet, one experiment*
+>
+>  *- E.O. Wilson*
+
+## Abstract
+
+A primary goal of ecology is to identify the factors underlying recruitment variability, and how they may shape population dynamics. Recruitment is driven by the input of new individuals into a population. However, these individuals often show high diversity in phenotypic traits and life histories, and the consequences of this variation are poorly understood. Phenotypic variation is widespread among the early life stages of fish, and this variation may be influenced by events occurring across multiple life stages. While many studies have investigated phenotypic variation and its effect on population dynamics, comparatively few studies use an integrated approach that evaluates patterns and processes across multiple life history stages. Here I focus on a native amphidromous fish, *Galaxias maculatus*, and I explore patterns and consequences of phenotypic variation during larval stages, migratory stages, and post-settlement stages of this fish.
+
+I explore variability in phenotypes and early life history traits of G. maculatus through both space and time. I use metrics derived from body size and otolith-based demographic reconstructions to quantify potentially important early life history traits. I found that cohorts of juvenile fish sampled later in the year were comprised of individuals that were older, smaller, and grew more slowly relative to fish sampled earlier in the year. I also found that two sampled sites (the Hutt River and the Wainuiomata River) showed different temporal trends, despite their close geographical proximity.
+
+I then investigated whether phenotype was related to mortality. I used otolith-based traits to characterise larval ‘quality’ for individual fish. I then calculated the average larval quality for discrete cohorts of fish, and used catch-curve analysis to estimate mortality rates for these cohorts. I investigated the overall relationship between quality and mortality, and compared the trend between two sites. My results indicate that phenotype and mortality were not significantly correlated. However, this inference may be limited by low statistical power; the non-significant trends suggest that the relationship might be negative (i.e., larvae of higher quality tend to have lower rates of mortality). This trend is typical of systems where population expansion is limited by food rather than predators.  
+
+I then investigated whether phenotypic traits in the juvenile cohorts were correlated with traits in adult cohorts. I resampled the focal populations ~6 months after sampling the juvenile stages (i.e., targeting fish from sampled cohorts that had survived to adulthood), and I used data from otoliths to reconstruct life history traits (hatch dates and growth histories). I compared adult life history traits to the traits of discrete juvenile cohorts. 
+
+My results suggest that fish that survived to adulthood had comparatively slower growth rates (reconstructed for a period of larval/juvenile growth) relative to the sampled juvenile cohorts (where growth rate was estimated for the same period in their life history). I also found that the distributions of hatch dates varied between sites. Fish that survived to adulthood at one site hatched later in the breeding season, while adult stages from the other site had hatch dates that were distributed across the entire breeding season. Both hatch date and growth rate are likely linked to fitness, and their interaction may have influenced patterns of survival to adulthood. These results provide evidence for carry-over effects of larval phenotype on juvenile success.
+
+Collectively my thesis emphasises the importance of phenotype and life history variability in studies of recruitment. It also highlights the importance of spatial scale, and how biological patterns may differ between geographically close systems. Some of the general inferences from my study may extend to other migratory Galaxiid species, and perhaps more generally, to many species with extensive larval dispersal. Finally, my work highlights potentially important interactions between phenotypes, life histories, and mortality, which can ultimately shape recruitment, and the dynamics of populations. 
+
+
+## Acknowledgements
+
+I always suspected that the acknowledgements section would end up being the longest section of this thesis. In truth, there has been a phenomenal amount of people who have contributed to this in some way, and it wouldn’t feel right if I didn’t thank you all. 
+
+First and foremost, I want to thank my supervisor, Jeff Shima. Jeff, thank you for everything you’ve done for me over the past two years. You have helped me to grow and develop as a scientist, and your input has always been appreciated. Thank you especially for reigning in the first thesis plan I submitted to you. That would have kept me working until 2020! My gratitude also goes out to the members of the Shima Lab. Thanks for listening to me rabbit on about whitebait, and for providing support and advice. 
+
+To the VUCEL community, I’ve really enjoyed being a part of this group of people. Cheers for the BBQs, the morning teas, and the general get-togethers. You’ve all made my Master’s a fantastic experience. John, Dan, and Snout, thank you for all the technical assistance. Everyone would be lost without you three!
+
+This thesis wouldn’t have been possible without the small army of volunteers I had come and assist with whitebaiting. In no particular order, thank you to Kayla, Tory, Savita, Heyes, Andrew, Chris, Vinnie, Jessie, Ali, Mel, Eden, Emily, Anna, Jordan, James, and Max. I also want to thank John, Danny, Tom, Kelly, and Jim for donating samples and general advice on whitebaiting. 
+
+Chris, Jess, and Vinnie, thanks for being my partners in crime during this journey. It’s been great to collaborate, share data, and tackle Galaxiid ecology as a team. Cheers for listening to my ridiculous experimental ideas, and stopping me using models that no normal human would run. Vinnie, thank you in particular for your incredible amount of help in the field. You made me keep going when I was ready to give up, and kept on pushing when everything kept going wrong. 
+
+To all of my friends, and particularly my flatmates, thank you for understanding why I neglected you. Your support has meant the world to me. Thanks also needs to be said to Alex, for getting me out of a tight spot, Ben, for some much needed advice, Lisa Woods, who knows more about statistics than anyone I’ve met, and Phoebe, for answering seemingly endless questions about everything.
+
+Chris, this concludes five years of us studying together. Thank you for always being there as a source of advice, ideas, and generally helping me to feel better when everything goes wrong. I’m going to miss working alongside you. 
+
+There are three people in particular I need to mention. Snout, thank you so much for your guidance. This thesis never would have got here without you. Your knowledge of logistics, fieldwork, otoliths, and everything in between has been invaluable to me, and I cannot thank you enough for all your patience. Also, your cooking skills are second to none! 
+Secondly, I owe a huge debt of gratitude to Mark Kaemingk. Mark, you have been like a second supervisor to me. You introduced me to whitebait, and you have totally changed the way I think about science. This thesis has been shaped by you in so many ways, and it has been a true pleasure having you as a mentor and friend. 
+
+And to my partner Elyse. Thank you for all your love and support. You may have no interest in fish population ecology, but you understood my passion, and always encouraged and supported me. 
+
+Lastly, I want to say a massive thank you to my parents, Ian and Vicki. You have always supported me in whatever path I chose to pursue, and for that I am thankful.
+
