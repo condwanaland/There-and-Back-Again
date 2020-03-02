@@ -61,7 +61,7 @@ knitr::include_graphics("images/stdlengthmonth.png")
 
 The standard length of G. maculatus varied significantly among days nested within sites (F19, 470 = 5.210, p < 0.0001, \@ref(fig:spatiotemp1)). A post hoc test (\@ref(fig:spatiotemp1table)) indicates that a small number of pairwise comparisons appear to be driving the significance of this effect. \@ref(fig:spatiotemp1) suggests that sizes of G. maculatus are heterogeneous across consecutive days within some months (i.e. October, November) for the Hutt River in particular.
 
-```{r, spatiotemp1, echo=FALSE, fig.cap="Daily (within month) temporal variation in standard length between (A) Hutt River, and (B) Wainuiomata River. Given are LS means ± 95% CI. Different colours represent the different sampling days. Blue=day 1, orange=day 2, green=day 3, red=day 4. Missing symbols indicate days were no fish were sampled. Confidence intervals are obscured by size of symbols for several observations. Dissimilar lowercase letters indicate a significant difference based upon post hoc tests; separate analyses were conducted for each site and month. Sampling did not occur in the Wainuiomata River during November due to river mouth closure.}
+```{r, spatiotemp1, echo=FALSE, fig.cap="Daily (within month) temporal variation in standard length between (A) Hutt River, and (B) Wainuiomata River. Given are LS means ± 95% CI. Different colours represent the different sampling days. Blue=day 1, orange=day 2, green=day 3, red=day 4. Missing symbols indicate days were no fish were sampled. Confidence intervals are obscured by size of symbols for several observations. Dissimilar lowercase letters indicate a significant difference based upon post hoc tests; separate analyses were conducted for each site and month"}
 knitr::include_graphics("images/spatiotemp1.png")
 ```
 
@@ -82,7 +82,7 @@ knitr::include_graphics("images/spatiotemporalgrowthrate.png")
 The otolith growth rate varied significantly among days nested within months and sites  (F19, 470 = 5.2703, p < 0.0001, \@ref(fig:growthratebyday)). A post hoc test (Table 2 3) indicates that a small number of pairwise comparisons are driving the significance of this effect. \@ref(fig:growthratebyday) suggests that otolith growth rates of G. maculatus are heterogeneous across days within all months for the Hutt River and homogenous across days within all months for the Wainuiomata River. 
 
 ```{r, growthratebyday, echo=FALSE, fig.cap="The otolith growth rate varied significantly among days nested within months and sites  (F19, 470 = 5.2703, p < 0.0001, Figure 2 6). A post hoc test (Table 2 3) indicates that a small number of pairwise comparisons are driving the significance of this effect. Figure 2 6 suggests that otolith growth rates of G. maculatus are heterogeneous across days within all months for the Hutt River and homogenous across days within all months for the Wainuiomata River."}
-knitr::include_graphics("images/growthratebyage.png")
+knitr::include_graphics("images/growthratebyday.png")
 ```
 
 ```{r, spatiotemptable2, echo=FALSE, fig.cap="Pairwise comparisons of average otolith growth rate between days nested within months and sites. No fishing was conducted in the Wainuiomata during November due to river mouth closure. No fish were successfully caught on the 1st day in August in the Wainuiomata or the 4th day in November in the Hutt (as indicated by “NA”). Asterisks indicate a significant difference in length between day pairs."}
