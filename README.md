@@ -1,1 +1,1 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+This is a (modified) copy of the MSc Thesis I submitted to Victoria University of Wellington in 2016, titled There and Back Again: Spatial and Temporal Variation in the Recruitment Dynamics of an Amphidromous Fish.
