@@ -104,7 +104,7 @@ knitr::include_graphics("images/spatiotemp3.png")
 ```
 
 ```{r, spatiotemp3table, echo=FALSE, fig.cap="Pairwise comparisons of average growth rate between days nested within months and sites. No fishing was conducted in the Wainuiomata during November due to river mouth closure. No fish were successfully caught on the 1st day in August in the Wainuiomata or the 4th day in November in the Hutt. Asterisks indicate a significant difference in length between a pair of days."}
-
+knitr::include_graphics("images/spatiotemp3table.png")
 ```
 
 
